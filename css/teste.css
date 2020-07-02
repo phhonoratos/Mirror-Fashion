@@ -1,0 +1,13 @@
+li{
+    border: 2px solid;
+    border-color: red;
+    width: 300px;
+    height: 150px;
+    display: inline;
+}
+
+li img{
+    width: inherit;
+    height: inherit;
+    display: inline;
+}
